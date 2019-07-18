@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Teste de mudança
+=======
+Teste de mudança
+
+
+Teste de merge
